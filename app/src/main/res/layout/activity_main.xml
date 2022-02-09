@@ -22,23 +22,25 @@
 
         <RadioButton
             android:id="@+id/radioButtonMaterialGrin"
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_margin="8dp"
+            android:layout_weight="1"
             android:checked="true"
             android:gravity="center"
             android:text="themeDefault"
-            android:textColor="@color/red_200"
+            android:textColor="@color/darkBrown"
             android:textSize="25dp" />
 
         <RadioButton
             android:id="@+id/radioButtonMaterialRed"
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_margin="8dp"
+            android:layout_weight="1"
             android:gravity="center"
             android:text="themeRed"
-            android:textColor="@color/red_200"
+            android:textColor="@color/darkBrown"
             android:textSize="25dp" />
     </RadioGroup>
 
