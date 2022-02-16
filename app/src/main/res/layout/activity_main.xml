@@ -86,9 +86,7 @@
         android:textColor="@color/white"
         android:layout_height="wrap_content"
         android:textSize="@dimen/size25"
-        android:onClick=""
-        android:text="@string/registration"
-        tools:ignore="OnClick" />
+        android:text="@string/registration" />
 
 
 </LinearLayout>
