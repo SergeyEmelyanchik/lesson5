@@ -52,4 +52,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         return sharedPref.getInt(PREF_THEME_KEY, R.style.myThemeDefault);
     }
 
+    public void Login(View view) {
+    }
 }

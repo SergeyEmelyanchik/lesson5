@@ -30,16 +30,16 @@
 
     <style name="myThemeGreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="android:navigationBarColor">@color/green</item>
-        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimary">#62CC22</item>
         <item name="colorOnPrimary">@color/white</item>
-        <item name="colorPrimaryContainer">@color/green</item>
-        <item name="colorOnPrimaryContainer">@color/green</item>
-        <item name="colorPrimaryInverse">@color/green</item>
-        <item name="colorSecondary">@color/green</item>
+        <item name="colorPrimaryContainer">#709E55</item>
+        <item name="colorOnPrimaryContainer">#1C350D</item>
+        <item name="colorPrimaryInverse">#85AA6E</item>
+        <item name="colorSecondary">#2F7A00</item>
         <item name="colorOnSecondary">@color/white</item>
-        <item name="colorSecondaryContainer">@color/green</item>
-        <item name="colorOnSecondaryContainer">@color/green</item>
-        <item name="colorTertiary">@color/green</item>
+        <item name="colorSecondaryContainer">#0E1C05</item>
+        <item name="colorOnSecondaryContainer">#244C0C</item>
+        <item name="colorTertiary">#CEE8BE</item>
         <item name="colorOnTertiary">@color/white</item>
         <item name="colorTertiaryContainer">@color/green</item>
         <item name="colorOnTertiaryContainer">@color/green</item>

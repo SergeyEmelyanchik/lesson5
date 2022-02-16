@@ -2,4 +2,12 @@
     <string name="app_name">lesson5</string>
 
     <string name="logo_description">Флаг БЕЛАРУСИ</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="default_name">клиент</string>
+    <string name="default_password">пароль</string>
+    <string name="hint_name">Введите ваше имя:</string>
+    <string name="hint_password">Введите ваш пароль:</string>
+    <string name="registration">ЖЫВЕ БЕЛАРУСЬ</string>
+    <string name="themedefault">Болото</string>
+    <string name="themered">BELARUS</string>
 </resources>
